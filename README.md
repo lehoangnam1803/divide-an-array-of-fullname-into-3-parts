@@ -1,0 +1,1 @@
+# divide-an-array-of-fullname-into-3-parts
