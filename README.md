@@ -1,6 +1,6 @@
 # divide-an-array-of-fullname-into-3-parts
 
-#Solution
+#Problem
 1. Creat a string array a[30]
 2. Insert a fullname
 3. Divide this name into 3 parts: first name, last name, middle name
